@@ -17,12 +17,12 @@
 
 ### 🚀 About Me
 
-- 🤖 I turn **large language models into practical, reliable products**
-- 🎓 **M.S. in Software Engineering** with 3+ years of hands-on experience
-- 🔭 Currently working on **RAG systems, LLM agents, and production-grade Python services**
-- 🌱 Deep into **GenAI, prompt engineering, vector databases, and applied ML**
-- 📫 Reach me at **raufsarwer00@gmail.com**
-- 🌐 Portfolio: **[raufsarwer.vercel.app](https://raufsarwer.vercel.app/)**
+- I turn **large language models into practical, reliable products**
+- **M.S. in Software Engineering** with 3+ years of hands-on experience
+- Currently working on **RAG systems, LLM agents, and production-grade Python services**
+- Deep into **GenAI, prompt engineering, vector databases, and applied ML**
+- Reach me at **raufsarwer00@gmail.com**
+- Portfolio: **[raufsarwer.vercel.app](https://raufsarwer.vercel.app/)**
 
 ---
 
