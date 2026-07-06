@@ -71,19 +71,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=groot654&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=groot654&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=groot654&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <i>⚡ Turning large language models into products that ship.</i>
 </p>
