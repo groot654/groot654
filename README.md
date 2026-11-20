@@ -1,12 +1,12 @@
 <h1 align="center">hey, i'm rauf 👋</h1>
 
-<p align="center"><i>i build AI things. the cat supervises.</i></p>
+<h3 align="center"><i>i build AI things. the cat supervises.</i></h3>
 
 <p align="center">
   <img src="assets/cat.png" width="420" alt="A cat, the senior code reviewer" />
 </p>
 
-<p align="center"><sub>senior code reviewer · has never approved a PR</sub></p>
+<p align="center"><b>senior code reviewer · has never approved a PR</b></p>
 
 <p align="center">
   <a href="https://raufsarwer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -15,11 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=groot654&label=visitors&color=00C9A7&style=flat-square" alt="Profile views" />
 </p>
 
-```python
-rauf = RaufSarwer(role="ML & AI Engineer", exp="3+ yrs", degree="M.S. Software Engineering")
-rauf.debug()   # explains it to the cat until one of us understands
-rauf.status()  # 'training a model. it is also training me.'
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
+    <img src="assets/about-light.svg" alt="rauf = RaufSarwer(role='ML &amp; AI Engineer', exp='3+ yrs', degree='M.S. Software Engineering'); rauf.debug() explains it to the cat until one of us understands; rauf.status() is 'training a model. it is also training me.'" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,pytorch,tensorflow,langchain,huggingface,claudecode,codex,fastapi,docker,postgres,react,linux" alt="Tech stack" />

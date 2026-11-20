@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="223" viewBox="0 0 780 223" role="img" aria-label="About Rauf, written as Python">
+  <rect width="780" height="223" rx="6" fill="#151b23"/>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17">
+  <text x="24" y="36" xml:space="preserve"><tspan fill="#e6edf3">rauf </tspan><tspan fill="#ff7b72">=</tspan><tspan fill="#d2a8ff"> RaufSarwer</tspan><tspan fill="#e6edf3">(</tspan></text>
+  <text x="24" y="63" xml:space="preserve"><tspan fill="#e6edf3">    role</tspan><tspan fill="#ff7b72">=</tspan><tspan fill="#a5d6ff">"ML &amp; AI Engineer"</tspan><tspan fill="#e6edf3">,</tspan></text>
+  <text x="24" y="90" xml:space="preserve"><tspan fill="#e6edf3">    exp</tspan><tspan fill="#ff7b72">=</tspan><tspan fill="#a5d6ff">"3+ yrs"</tspan><tspan fill="#e6edf3">,</tspan></text>
+  <text x="24" y="117" xml:space="preserve"><tspan fill="#e6edf3">    degree</tspan><tspan fill="#ff7b72">=</tspan><tspan fill="#a5d6ff">"M.S. Software Engineering"</tspan><tspan fill="#e6edf3">,</tspan></text>
+  <text x="24" y="144" xml:space="preserve"><tspan fill="#e6edf3">)</tspan></text>
+  <text x="24" y="171" xml:space="preserve"><tspan fill="#e6edf3">rauf.</tspan><tspan fill="#d2a8ff">debug</tspan><tspan fill="#e6edf3">()   </tspan><tspan fill="#9198a1"># explains it to the cat until one of us understands</tspan></text>
+  <text x="24" y="198" xml:space="preserve"><tspan fill="#e6edf3">rauf.</tspan><tspan fill="#d2a8ff">status</tspan><tspan fill="#e6edf3">()  </tspan><tspan fill="#9198a1"># 'training a model. it is also training me.'</tspan></text>
+  </g>
+</svg>
