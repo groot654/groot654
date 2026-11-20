@@ -22,7 +22,7 @@ rauf.status()  # 'training a model. it is also training me.'
 ```
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,pytorch,tensorflow,sklearn,langchain,huggingface,fastapi,docker,postgres,react,linux" alt="Tech stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,ts,pytorch,tensorflow,langchain,huggingface,claudecode,codex,fastapi,docker,postgres,react,linux" alt="Tech stack" />
   <br />
   <sub><i>the cat has walked across the keyboard for all of these.</i></sub>
 </p>
